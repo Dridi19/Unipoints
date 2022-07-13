@@ -1,4 +1,7 @@
-<img align="right" src="https://user-images.githubusercontent.com/97188701/178636014-1912f10e-bc25-49b3-a304-ac6dd92163c7.png" width="200" height="400"  />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/97188701/178636014-1912f10e-bc25-49b3-a304-ac6dd92163c7.png" width="200" height="400"  />
+ </p>
+
 <img src="https://user-images.githubusercontent.com/97188701/178636022-3467a0ba-04b4-4a8b-b6dd-3815e35d98c9.png" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/97188701/178636026-31f59468-f968-4fd0-88f2-9c32bcb094ca.png" width="200" height="400" />
 
